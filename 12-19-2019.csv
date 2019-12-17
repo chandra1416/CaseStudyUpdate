@@ -1,0 +1,7 @@
+TransactionId|PolicyId|PolicyNumber|PolicYHolderName|PolicyStartDate|PolicyExpirationDate|PolicyType|ClaimID|ClaimType|ClaimApplyDate|ClaimServiceDate|ClaimStatus|ClaimCompletionDate
+3000001|456789001124|45678901|Ramkumar|06-Jun-2019|05-Jun-2020|Renewal|90002|Earthquake|15-Sep-2018|20-Sep-2018|Completed|01-Oct-2019
+3000003|456789001126|45678903|Ravikumar|05-Apr-2019|04-Jun-2020|New_Business|90004|Flood|01-Dec-2019|03-Dec-2019|Completed|10-Dec-2019
+3000005|456789001128|45678905|Vimal|20-Sep-2019|19-Sep-2020|New_Business|90006|Breakage|01-Dec-2019|05-Dec-2019|Completed|08-Dec-2019
+3000006|456789001129|45678906|Rajesh|05-Oct-2019|04-Oct-2020|Renewal|90007|Flood|03-Dec-2019|10-Dec-2019|Completed|12-Dec-2019
+3000007|456789001130|45678907|Vimala|10-Jun-2019|09-Jun-2020|Renewal|90008|Earthquake|05-Dec-2019|10-Dec-2019|Processed|
+3000008|456789001131|45678908|Guru|05-May-2019|04-May-2020|New_Business|90009|Flood|01-Dec-2019|11-Dec-2019|Processed|

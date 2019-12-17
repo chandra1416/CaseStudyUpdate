@@ -1,0 +1,10 @@
+TransactionId|PolicyId|PolicyNumber|PolicYHolderName|PolicyStartDate|PolicyExpirationDate|PolicyType|ClaimID|ClaimType|ClaimApplyDate|ClaimServiceDate|ClaimStatus|ClaimCompletionDate
+1000001|456789001123|45678901|Ramkumar|06-Jun-2018|05-Jun-2019|New_Business|90001|Fire|15-Sep-2018|20-Sep-2018|Pending|
+1000002|456789001123|45678901|Ramkumar|06-Jun-2018|05-Jun-2019|New_Business|90001|Fire|15-Sep-2018|20-Sep-2018|Processed|
+1000003|456789001123|45678901|Ramkumar|06-Jun-2018|05-Jun-2019|New_Business|90001|Fire|15-Sep-2018|20-Sep-2018|Completed|30-Sep-2018
+1000004|456789001124|45678901|Ramkumar|06-Jun-2019|05-Jun-2020|Renewal|90002|Earthquake|05-Dec-2019||Pending|
+1000005|456789001125|45678902|Rajkumar|01-Mar-2019|28-Feb-2020|New_Business|90003|Storm|25-Nov-2019|30-Nov-2019|Processed|
+1000006|456789001126|45678903|Ravikumar|05-Apr-2019|04-Jun-2020|New_Business|90004|Flood|01-Dec-2019||Pending|
+1000007|456789001127|45678904|Sukumar|12-Jul-2019|11-Jul-2020|Renewal|90005|Fire|10-Dec-2019|12-Dec-2019|Processed|
+1000008|456789001128|45678905|Vimal|20-Sep-2019|19-Sep-2020|New_Business|90006|Breakage|01-Dec-2019||Pending|
+1000009|456789001129|45678906|Rajesh|05-Oct-2019|04-Oct-2020|Renewal|90007|Flood|03-Dec-2019||Pending|
